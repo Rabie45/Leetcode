@@ -9,7 +9,7 @@ the answer is 0,1 because 2 (which index is 0) + 7 (which index is 1) make the t
 - int numsSize: size of the array
 - int target:  the target value 
 - int* returnSize: the array that hold the size of array which accomplish the task 
-##Algorithm 
+## Algorithm 
 - First create an array to hold the answer (If you don't know how to request a memory space ) 
 - Second make 2  for loops to get the consecutive indices then, check if the sum of the two values equal to the target then assign the value in the array and return the - array. if now try the next loop until you find the answer. 
 - Finally don't forget to free the mallocated array ^^ .
