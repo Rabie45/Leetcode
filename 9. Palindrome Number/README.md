@@ -1,5 +1,6 @@
 # 9. Palindrome Number
-In this problem you have to return Boolean (True or False) and you have to figure out if the number given by the user is Palindrome. but let me Explain the examples first
+## Explination:
+- In this problem you have to return Boolean (True or False) and you have to figure out if the number given by the user is Palindrome. but let me Explain the examples first
 
 ## Example 1
 The input was 121 when you read the number from left to right it gives the same value form right to left so it called palindrome number.\

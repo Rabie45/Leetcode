@@ -1,6 +1,7 @@
 # 58. Length of Last Word
 
-In this problem the description was very easy to understand but little hard to implement but lets start.
+## Explination:
+- In this problem the description was very easy to understand but little hard to implement but lets start.
 Briefly you want to know the size of the last ward in a string given by user.
 
 ## Algorithm :

@@ -1,8 +1,10 @@
 # 27. Remove Element
 
-This problem is so close to the previous (Remove Duplicates From Sorted Array)
-This problem have 2 solution one wasting memory but pretty easy and the other is small code but much headache lets start.
-The problem want to remove a specific element  given by the user in every place in the array and return the size of the new array.
+## Explination:
+- This problem is so close to the previous (Remove Duplicates From Sorted Array)
+- This problem have 2 solution one wasting memory but pretty easy and the other is small code but much headache lets start.
+- The problem want to remove a specific element  given by the user in every place in the array and return the size of the new array.
+
 ## Parameter:
 
 ## The function given by the platform have 3 parameter:

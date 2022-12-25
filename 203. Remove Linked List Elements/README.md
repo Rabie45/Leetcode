@@ -1,5 +1,8 @@
 # 203. Remove Linked List Elements
+
+## Explination:
 - The task to remove spcific element from the linked list given by the user
+
 ## Algorithm:
 - Make a loop while the linked list not finished
 - If the value of the node equal the value given by user then check.

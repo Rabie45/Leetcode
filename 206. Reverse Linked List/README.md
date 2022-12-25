@@ -1,5 +1,8 @@
 # 206. Reverse Linked List
+
+## Explination
 - The task is to reverse the linked list 
+
 # Algorithm
 - First I calculate the length of the linked list
 - Second make an array to copy the elemnts from linked list to the array 

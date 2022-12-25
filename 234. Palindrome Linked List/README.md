@@ -1,4 +1,5 @@
 # 234. Palindrome Linked List
+## Explination:
 - The task is to know if the list read for right to left equal to the left to right 
 ## Algorithm
 - Calculate the length of the list 
