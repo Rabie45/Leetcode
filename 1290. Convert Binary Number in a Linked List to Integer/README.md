@@ -1,5 +1,5 @@
 # 1290. Convert Binary Number in a Linked List to Integer
-
+- Convert from binary to dicimal
 ## Algorithm:
 
 - First calculate the lenght of the linked list
