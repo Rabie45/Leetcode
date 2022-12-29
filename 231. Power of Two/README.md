@@ -10,7 +10,8 @@
  - if you divide the log of number to the log of the base you would get the power (
  - so if you calculate 2 power number and u got the same number given 
  - return the power you got
- ##Revision
+ 
+ ## Revision
  - https://www.mathsisfun.com/algebra/logarithms.html
  
 
