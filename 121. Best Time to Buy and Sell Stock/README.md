@@ -1,4 +1,14 @@
-# Leetcode
- ## LeetCode dummy solutions
- 
-![attack-on-titan-shingeki-no-kyojin](https://user-images.githubusercontent.com/76526170/209472413-b3f849ab-269e-49b9-b5ac-cc35fc31ce45.gif)
+# 121. Best Time to Buy and Sell Stock
+
+ ## Explination:
+ - Determine the best time to buy and sell a product to gain max profit
+
+## Algorithm:
+- Assume minmum price is prices[0] and maximun profit is 0
+- Create a for loop to check if the price is less than the minumum price make the price is the new one
+- Else subtract the price[index] - min price 
+ - If greater than the max profit change the value of max profit with the new one
+- Dont forget to return the max value
+
+
+
