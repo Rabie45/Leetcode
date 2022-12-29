@@ -13,6 +13,7 @@
  - so for every time make a space in the memory to save the the word 
  - At the end return the doublel array
  
+ illustration for how the double array
 ![pic](https://user-images.githubusercontent.com/76526170/210010564-0d7d7a30-24a5-42dd-afd2-9f5233833d6e.png)
 
  
