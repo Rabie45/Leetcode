@@ -1,4 +1,4 @@
-# Leetcode
- ## LeetCode dummy solutions
+# 70. Climbing Stairs
+ ## Explination:
+ - use the Explination of 509. Fibonacci Number https://github.com/Rabie45/Leetcode/tree/main/509.%20Fibonacci%20Number
  
-![attack-on-titan-shingeki-no-kyojin](https://user-images.githubusercontent.com/76526170/209472413-b3f849ab-269e-49b9-b5ac-cc35fc31ce45.gif)
