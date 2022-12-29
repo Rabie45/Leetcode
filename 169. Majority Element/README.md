@@ -1,4 +1,9 @@
-# Leetcode
- ## LeetCode dummy solutions
- 
-![attack-on-titan-shingeki-no-kyojin](https://user-images.githubusercontent.com/76526170/209472413-b3f849ab-269e-49b9-b5ac-cc35fc31ce45.gif)
+# 169. Majority Element
+
+ ## Explination:
+  - Return the number that have the max occurance in the array
+  
+ ## Algorithm:
+ - Sort the whole array 
+ - then the number in the middle is the one 
+
