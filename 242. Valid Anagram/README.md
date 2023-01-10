@@ -10,8 +10,8 @@
  - For every character make the index of the array = s[i] - 'a' to get the index of the letter and make ++ to increment the 0
  - Make another for loop to check the two array if not equal return false 
  - Else return false 
- 
-![al1](https://user-images.githubusercontent.com/76526170/211572169-e7b81607-a7a7-47c8-b70e-0cdc920665b5.PNG)
+![al2](https://user-images.githubusercontent.com/76526170/211572159-4b19cc8e-998e-496a-b37c-09bfe30ebd86.PNG)
+
 
 ## Algorithm_2:
  - This idea is pretty easy but slower than the first ne
@@ -20,7 +20,7 @@
  - If equal the function returns 0 which mens return true 
  - Else the string not anagram return fales
  
+![al1](https://user-images.githubusercontent.com/76526170/211572169-e7b81607-a7a7-47c8-b70e-0cdc920665b5.PNG)
 
-![al2](https://user-images.githubusercontent.com/76526170/211572159-4b19cc8e-998e-496a-b37c-09bfe30ebd86.PNG)
 
 
